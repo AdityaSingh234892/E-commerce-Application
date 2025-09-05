@@ -19,7 +19,7 @@ Welcome to **Ecom** – a beautiful, cross-platform e-commerce app built with Fl
 
 Follow these steps to get the app running locally:  
 
-git clone https://github.com/yourusername/ecom.git
+git clone [https://github.com/AdityaSingh234892/E-commerce-Application.git]
 cd ecom
 flutter pub get
 flutter run
@@ -79,7 +79,7 @@ ecom/
 
 ## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome! Please feel free to check the [issues page](https://github.com/yourusername/ecom/issues).
+Contributions, issues, and feature requests are welcome! Please feel free to check the [issues page]([https://github.com/yourusername/ecom/issues](https://github.com/AdityaSingh234892/E-commerce-Application.git)).
 
 ---
 
